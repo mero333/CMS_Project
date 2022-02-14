@@ -1,0 +1,36 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "CMS_Project.BL/1.0.0": {
+        "dependencies": {
+          "CMS_Project.DAL": "1.0.0"
+        },
+        "runtime": {
+          "CMS_Project.BL.dll": {}
+        }
+      },
+      "CMS_Project.DAL/1.0.0": {
+        "runtime": {
+          "CMS_Project.DAL.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "CMS_Project.BL/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "CMS_Project.DAL/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

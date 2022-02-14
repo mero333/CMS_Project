@@ -1,0 +1,15 @@
+D:\VSRamy\CMS_Project\CMS_Project.BL\bin\Debug\net6.0\CMS_Project.BL.deps.json
+D:\VSRamy\CMS_Project\CMS_Project.BL\bin\Debug\net6.0\CMS_Project.BL.dll
+D:\VSRamy\CMS_Project\CMS_Project.BL\bin\Debug\net6.0\ref\CMS_Project.BL.dll
+D:\VSRamy\CMS_Project\CMS_Project.BL\bin\Debug\net6.0\CMS_Project.BL.pdb
+D:\VSRamy\CMS_Project\CMS_Project.BL\bin\Debug\net6.0\CMS_Project.DAL.dll
+D:\VSRamy\CMS_Project\CMS_Project.BL\bin\Debug\net6.0\CMS_Project.DAL.pdb
+D:\VSRamy\CMS_Project\CMS_Project.BL\obj\Debug\net6.0\CMS_Project.BL.csproj.AssemblyReference.cache
+D:\VSRamy\CMS_Project\CMS_Project.BL\obj\Debug\net6.0\CMS_Project.BL.GeneratedMSBuildEditorConfig.editorconfig
+D:\VSRamy\CMS_Project\CMS_Project.BL\obj\Debug\net6.0\CMS_Project.BL.AssemblyInfoInputs.cache
+D:\VSRamy\CMS_Project\CMS_Project.BL\obj\Debug\net6.0\CMS_Project.BL.AssemblyInfo.cs
+D:\VSRamy\CMS_Project\CMS_Project.BL\obj\Debug\net6.0\CMS_Project.BL.csproj.CoreCompileInputs.cache
+D:\VSRamy\CMS_Project\CMS_Project.BL\obj\Debug\net6.0\CMS_Project.BL.csproj.CopyComplete
+D:\VSRamy\CMS_Project\CMS_Project.BL\obj\Debug\net6.0\CMS_Project.BL.dll
+D:\VSRamy\CMS_Project\CMS_Project.BL\obj\Debug\net6.0\ref\CMS_Project.BL.dll
+D:\VSRamy\CMS_Project\CMS_Project.BL\obj\Debug\net6.0\CMS_Project.BL.pdb
